@@ -101,9 +101,11 @@
             </div>
         </div>
     </div>
-    <footer> Web Design Challenge - Virginia Mwape </footer>
+    <footer> Web Design Challenge - Aizelmarie Magsino </footer>
 </body>
 </html>
 © 2022 GitHub, Inc.
 Terms
 Privacy
+Security
+St
